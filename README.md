@@ -1,7 +1,5 @@
 <h2 align="center">Hey , I'm Jitendra Singh Chouhan</h2>
-
 ###
-
 <br clear="both">
 
 <h2 align="center">MERN Stack Developer</h2>
