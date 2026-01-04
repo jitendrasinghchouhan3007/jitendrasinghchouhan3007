@@ -2,11 +2,19 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="center">MERN Stack Developer</h2>
 
 ###
 
-<h5 align="left">I approach development with strategic intent, balancing clean architecture with efficient implementation. I prioritize reliability, adaptability, and sustainable code practices in every project.</h5>
+<br clear="both">
+
+<h5 align="center">I approach development with strategic intent, balancing clean architecture with efficient implementation. I prioritize reliability, adaptability, and sustainable code practices in every project.</h5>
+
+###
+
+<img align="right" height="345" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"  />
 
 ###
 
@@ -14,7 +22,7 @@
 
 ###
 
-<p align="left">🤝 Connect</p>
+<h5 align="left">🤝 Connect</h5>
 
 ###
 
@@ -78,6 +86,12 @@
 ###
 
 <div align="left">
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=-9&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
